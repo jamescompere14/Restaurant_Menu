@@ -6,7 +6,7 @@
     <!-- ACTIONBAR TAB SETTINGS -->
     <string name="ui_tabname_entree">entree</string>
     <string name="ui_tabname_dessert">dessert</string>
-    <string name="ui_tabname_snack">snack</string>
+    <!--<string name="ui_tabname_snack">snack</string>-->
     <string name="ui_tabname_appetizer">appetizer</string>
 
     <!-- TODO: Remove or change this placeholder text -->
