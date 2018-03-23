@@ -10,16 +10,16 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
- //* {@link BreakfastFragment.} interface
+ //* {@link EntreeFragment.} interface
  * to handle interaction events.
- * Use the {@link BreakfastFragment#} factory method to
+ * Use the {@link EntreeFragment#} factory method to
  * create an instance of this fragment.
  */
 //OnFragmentInteractionListener
 //newInstance
-public class BreakfastFragment extends Fragment {
+public class EntreeFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_breakfast, container, false);
+        return inflater.inflate(R.layout.fragment_entree, container, false);
     }
 }
