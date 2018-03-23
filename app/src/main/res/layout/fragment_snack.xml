@@ -11,7 +11,8 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:contentDescription="@string/ui_tabname_snack"
-        android:orientation="horizontal"/>
-    <!-- android:src=""-->
+        android:orientation="horizontal"
+        android:src="@drawable/snack"/>
+
 
 </LinearLayout>
